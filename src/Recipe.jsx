@@ -21,7 +21,6 @@ const Recipe = () => {
         title: "Oops...",
         text: "Enter a drink name!",
         confirmButtonText: "OK",
-        color: "red"
       });
       return;
     }
